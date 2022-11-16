@@ -1,0 +1,110 @@
+hr{
+  margin: 0;
+}
+
+.navbar-nav{
+  margin-left:850px;
+}
+i{
+  margin: 0 10px 0 10px;
+}
+
+.nav-item{
+  text-decoration: none;
+}
+
+
+/* Header section */
+#head-section{
+  background-color: #CDF0EA;
+  height: 400px;
+}
+
+.container{
+  width: 85%;
+  margin-left: 0;
+}
+
+.title-heading{
+  width: 500px;
+  text-align: left;
+  padding: 5%;
+  margin-left: 200px;
+  display: inline-block;
+}
+.title-image{
+  display: inline-block;
+  width: 650px;
+  position: absolute;
+  left:800px;
+  top: 50px;
+}
+
+/* middle-section */
+
+.middle-section{
+  padding: 5% 7%;
+  text-align: center;
+}
+
+.display-shell {
+  padding: 3% 2% 2% 3%;
+}
+
+
+/* contact-section */
+.contact-section{
+  background-color: #CDF0EA;
+}
+
+.contact-div{
+  padding-top: 2rem;
+}
+.contact-heading{
+  text-align: center;
+  padding-bottom:  2% ;
+}
+
+.contact-detail{
+  padding: 1%;
+}
+
+.mail-link{
+  text-decoration: none;
+  color: black;
+}
+
+
+.conatiner-fluid{
+  text-align: center;
+}
+
+.end{
+  text-align: center;
+}
+
+/* login page */
+
+#buying-page{
+  background-color: #96E5D1;
+}
+
+.login-form,.start-of-login-page{
+  width: 60%;
+  text-align: center;
+  margin: 300px auto;
+}
+
+.signing{
+  margin: 10px;
+  color:white;
+}
+.signing-link{
+  text-decoration: none;
+  color:white;
+}
+
+.signing-link:hover{
+  text-decoration: none;
+  color:white;
+}
